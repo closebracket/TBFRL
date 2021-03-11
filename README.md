@@ -9,9 +9,13 @@
 6. [Software](#software)
 7. [Law and Standards](#standards)
 8. [Xamarin](#xamarin)
+9. [Data](#data)
+10. [Articles](#articles)
 
 ## Introduction <a name="introduction"></a>
-The Big Fucking Resource List is made up of resources (duh), I've come across, used, found interesting or simply put here for future reference in case it might come in useful for someone else or another project.
+The Big Fucking Resource List is made up of resources (duh), I've come across, used, found interesting or simply put here for future reference in case it might come in useful for someone else or another project. 
+
+This is more of a personal list, so if you're a student at Hull, you can check the Freeside Student Resources List [here](https://www.github.com/FreesideHull/StudentResources) instead.
 
 ## Academic <a name="academic"></a>
 1. [Github Student Pack](https://education.github.com/pack).
@@ -38,7 +42,6 @@ The Big Fucking Resource List is made up of resources (duh), I've come across, u
    - 18.3 ([CS50 Youtube Channel](https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA)).
 19. [TryHackMe](https://tryhackme.com/) - is an online platform for learning cyber security, using hands-on exercises and labs!
 20. [Awesome OSINT](https://github.com/jivoi/awesome-osint) - List of OSINT Tools and resources
-
 21. [NullByte](https://www.youtube.com/channel/UCgTNupxATBfWmfehv21ym-g) (Youtube Channel).
 22. [NumberPhile](https://www.youtube.com/channel/UCoxcjq-8xIDTYp3uz647V5A) (Youtube Channel).
 23. [Learn Electronics](https://www.youtube.com/channel/UCSRTiJhBE5GsP-1fCbpFRWg) (Youtube Channel).
@@ -160,10 +163,10 @@ The Big Fucking Resource List is made up of resources (duh), I've come across, u
 7. [Date and Time System in Cosmos DB](https://devblogs.microsoft.com/cosmosdb/new-date-and-time-system-functions/)
 8. [What is CosmosDB?](https://www.youtube.com/watch?v=utdxvAhIlcY).
 
-## Data
+## Data <a name="data">
 1. [Family Court Statistics Jan - March 2018](https://www.gov.uk/government/statistics/family-court-statistics-quarterly-january-to-march-2018)
 
-## Articles & Misc
+## Articles & Misc <a name="articles">
 1. [Europe Wonders if it can rely on U.S Again](https://www.nytimes.com/2020/10/22/world/europe/europe-biden-trump-diplomacy.html?utm_source=pocket-newtab-global-en-GB)
 
 
