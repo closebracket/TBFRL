@@ -106,6 +106,7 @@ This is more of a personal list, so if you're a student at Hull, you can check t
 17. [h8mail](https://github.com/khast3x/h8mail) - Email OSINT & Password breach hunting tool, locally or using premium services. Supports chasing down related email
 18. [E Foundation](https://e.foundation)
 19. [Github Automation](https://docs.github.com/en/github/managing-your-work-on-github/about-automation-for-project-boards)
+20. [Free small matrix server](https://matrix.org/docs/guides/free-small-matrix-server)
 
 ## Software <a name="software"></a>
 1. [Atom Editor](https://atom.io/) 
@@ -152,6 +153,11 @@ This is more of a personal list, so if you're a student at Hull, you can check t
 16. [General Xamarin Docs](https://docs.microsoft.com/en-us/xamarin/?WT.mc_id=docs-ch9-jamont)
 17. [Xamarin Datamodel Example](https://github.com/sthewissen/FocusOnXamarin/blob/master/FocusOnXamarin/Models/Product.cs)
 18. [FocusOnXamarin](https://github.com/dotnet-presentations/dotNETConf/tree/master/2020/FocusOnXamarin)
+19. [Xamarin.Forms MVVM with XAML](https://www.youtube.com/watch?v=VqZeTAjsgFQ&list=PLdo4fOcmZ0oU10SXt2W58pu2L0v2dOW-1&index=7)
+20. [Why XAML Why now](https://www.telerik.com/blogs/why-xaml-why-now)
+21. [Xamarin.Forms Layouts](https://docs.microsoft.com/en-gb/xamarin/xamarin-forms/user-interface/controls/layouts)
+22. [Style Classes](https://docs.microsoft.com/en-gb/xamarin/xamarin-forms/user-interface/styles/xaml/style-class)
+23. [Layout - Scroll View Example](https://github.com/xamarin/xamarin-forms-samples/blob/master/FormsGallery/FormsGallery/FormsGallery/CodeExamples/ScrollViewDemoPage.cs)
 
 ## CosmosDB <a name="cosmos">
 1. [Cosmos DB Concepts](https://www.youtube.com/watch?v=XAhYPE-SqRM)
