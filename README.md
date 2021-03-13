@@ -174,8 +174,11 @@ This is more of a personal list, so if you're a student at Hull, you can check t
 
 ## Articles & Misc <a name="articles">
 1. [Europe Wonders if it can rely on U.S Again](https://www.nytimes.com/2020/10/22/world/europe/europe-biden-trump-diplomacy.html?utm_source=pocket-newtab-global-en-GB)
-
-
+2. [Reverse Bullingdon Club](https://www.theguardian.com/education/2021/mar/06/bullingdon-in-reverse-working-class-student-93-club-taking-on-elitism#Echobox=1615033084?utm_source=pocket-newtab-global-en-GB)
+3. [Mailoji](https://tinyprojects.dev/projects/mailoji)
+4. [What3Words Api](https://developer.what3words.com)
+5. [VMWare Tanzu](https://tanzu.vmware.com)
+6. [MSPs Back Criminalising hate speech at dinner table](https://heraldscotland.com/news/19077579.msps-back-criminalising-hate-speech-dinner-table/)
 
 
 
