@@ -11,6 +11,7 @@
 8. [Xamarin](#xamarin)
 9. [Data](#data)
 10. [Articles](#articles)
+11. [C / Embedded](#embedded)
 
 ## Introduction <a name="introduction"></a>
 The Big Fucking Resource List is made up of resources (duh), I've come across, used, found interesting or simply put here for future reference in case it might come in useful for someone else or another project. 
@@ -61,7 +62,6 @@ This is more of a personal list, so if you're a student at Hull, you can check t
 37. [MIT Press: Reading code != Reading Language](https://news.mit.edu/2020/brain-reading-computer-code-1215)
 38. [Serialisation](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/serialization/)
 39. [Old Freeside Site](http://www.laidback.org/~andy/freeside/peeps.html) | [And here](http://www.laidback.org/~andy/freeside/ethiks.html)
-
 
 ## Hull Related <a name="hull"></a>
 1. [For Entrepreneurs Only](https://forentrepreneursonly.co.uk/)
@@ -133,6 +133,8 @@ This is more of a personal list, so if you're a student at Hull, you can check t
 4. [Government overview of Data Protection](https://www.gov.uk/data-protection)
 5. [The Chartered Institute for IT](https://www.bcs.org/)
 6. [Computer Misuse Act 1990](https://www.legislation.gov.uk/ukpga/1990/18/contents)
+7. [Contract Formation](https://hjsolicitors.co.uk/article/contract-formation-authority/)
+
 
 ## Xamarin <a name="xamarin"></a>
 1. [Xamarin.Forms Data Binding](https://docs.microsoft.com/en-gb/xamarin/xamarin-forms/app-fundamentals/data-binding/)
@@ -158,7 +160,11 @@ This is more of a personal list, so if you're a student at Hull, you can check t
 21. [Xamarin.Forms Layouts](https://docs.microsoft.com/en-gb/xamarin/xamarin-forms/user-interface/controls/layouts)
 22. [Style Classes](https://docs.microsoft.com/en-gb/xamarin/xamarin-forms/user-interface/styles/xaml/style-class)
 23. [Layout - Scroll View Example](https://github.com/xamarin/xamarin-forms-samples/blob/master/FormsGallery/FormsGallery/FormsGallery/CodeExamples/ScrollViewDemoPage.cs)
-
+24. [Azure AD Quickstart templates](https://azure.microsoft.com/en-gb/resources/templates/?term=azure+ad)
+25. [Authentication v Authorisation](https://docs.microsoft.com/en-us/azure/active-directory/develop/authentication-vs-authorization)
+26. [Authentication flows](https://docs.microsoft.com/en-us/azure/active-directory/develop/authentication-flows-app-scenarios)
+27. [Xamarin Sample Todo](https://github.com/xamarin/xamarin-forms-samples/blob/master/Todo/Todo/Views/TodoItemPageCS.cs)
+28. [Xamarin ASync ToDo Example](https://github.com/xamarin/xamarin-forms-samples/blob/master/Todo/Todo/AsyncLazy.cs)
 ## CosmosDB <a name="cosmos">
 1. [Cosmos DB Concepts](https://www.youtube.com/watch?v=XAhYPE-SqRM)
 2. [Cosmos DB with .NET](https://github.com/Azure-Samples/azure-cosmos-db-mongodb-dotnet-getting-started)
@@ -168,7 +174,8 @@ This is more of a personal list, so if you're a student at Hull, you can check t
 6. [Secure Access to CosmosDB](https://docs.microsoft.com/en-us/azure/cosmos-db/secure-access-to-data#rbac)
 7. [Date and Time System in Cosmos DB](https://devblogs.microsoft.com/cosmosdb/new-date-and-time-system-functions/)
 8. [What is CosmosDB?](https://www.youtube.com/watch?v=utdxvAhIlcY).
-
+9. [Azure Cosmos DB Docs](https://docs.microsoft.com/en-us/azure/cosmos-db/)
+10. [Database Approaches](https://db.grussell.org/section002.html)
 ## Data <a name="data">
 1. [Family Court Statistics Jan - March 2018](https://www.gov.uk/government/statistics/family-court-statistics-quarterly-january-to-march-2018)
 
@@ -179,9 +186,33 @@ This is more of a personal list, so if you're a student at Hull, you can check t
 4. [What3Words Api](https://developer.what3words.com)
 5. [VMWare Tanzu](https://tanzu.vmware.com)
 6. [MSPs Back Criminalising hate speech at dinner table](https://heraldscotland.com/news/19077579.msps-back-criminalising-hate-speech-dinner-table/)
+7. [Comparison of Linux v Windows usage for websites](https://w3techs.com/technologies/comparison/os-linux,os-windows)
+8. [Telegram Terminal Client](https://github.com/vtr0n/TelegramTUI)
+9. [Short Squeeze](https://shortsqueeze.com)
+10. [FIDO2: WebAuthn & CTAP](https://fidoalliance.org/fido2/)
+11. [RestAPI](https://restfulapi.net/)
+12. [NetworkStream.Write](https://docs.microsoft.com/en-us/dotnet/api/system.net.sockets.networkstream.write?view=net-5.0#System_Net_Sockets_NetworkStream_Write_System_Byte___System_Int32_System_Int32_)
+13. [NetworkStream Method Example](https://www.c-sharpcorner.com/article/csharp-streamwriter-example/)
+14. [AZ-900 Resources](https://github.com/MicrosoftLearning/AZ-900T0x-MicrosoftAzureFundamentals)
+15. [Aborting Thread v Cancelling Task](https://www.c-sharpcorner.com/article/aborting-thread-vs-cancelling-task/)
 
-
-
+## C / Embedded Systems <a name="embedded">
+1. [Array of Strings in C](https://overiq.com/c-programming-101/array-of-strings-in-c/)
+2. [ADCON1 for the pic](https://www.physicsforums.com/threads/when-to-use-adcon1-in-c-programming-on-the-pic18f8722.662260/)
+3. [Undefined Symbol error](https://www.microchip.com/forums/m885946.aspx)
+4. [_Sprintf error](https://stackoverflow.com/questions/58500223/error-1098-conflicting-declarations-for-variable-sprintf-in-xc8)
+5. [Digital Thermometor using PIC & DS18B20](https://pic-microcontroller.com/digital-thermometer-using-a-pic-microcontroller-and-ds18b20/)
+6. [ADC using PIC16F877A](https://www.exploreembedded.com/wiki/ADC_Using_PIC16F877A)
+7. [Recipe for target .buil-impl failed](https://www.microchip.com/forums/m873366.aspx)
+8. [Basics of a 4x4 Key Matrix](https://www.youtube.com/watch?v=6WdycpGuhRY)
+9. [Microcontroller Handouts](https://drive.google.com/drive/folders/1OSH5xolX6hEAUYEoXhaRUl4dmmvYUT8G)
+10. [Serial Communication with a PIC](https://www.youtube.com/watch?v=cd6T7Ta2PFs)
+11. [Bitshifting](https://stackoverflow.com/questions/443265/where-can-i-find-a-bit-shifting-guide-for-c)
+12. [Debouncing PDF](https://my.eng.utah.edu/~cs5780/debouncing.pdf)
+13. [Bool in C](https://iq.opengenus.org/boolean-in-c/)
+14. [Interfacing with a 4x4 Key Matrix](https://www.pantechsolutions.net/blog/how-to-interface-keypad-with-pic16f877a-pic-advanced-development-board/)
+15. [Interfacing with a 4x4 Keymatrix Tutorial](https://tutorial.cytron.io/2012/08/15/project-17-interface-with-4x4-keypad-and-2x16-lcd/)
+16. [Interfacing 4×4 Keypad matrix with 8051 microcontroller](https://technobyte.org/keypad-matrix-8051-interfacing/)
 
 
 
