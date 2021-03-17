@@ -217,9 +217,12 @@ This is more of a personal list, so if you're a student at Hull, you can check t
 16. [Interfacing 4×4 Keypad matrix with 8051 microcontroller](https://technobyte.org/keypad-matrix-8051-interfacing/)
 17. [What does 0x0F mean?](https://stackoverflow.com/questions/12989969/what-does-0x0f-mean-and-what-does-this-code-mean)
 
-
-
-
+## Diss
+1. [North Yorkshire: Microsoft 365 for efficiency & quality of service](https://www.youtube.com/watch?v=0X67Cj2T0ic)
+2. [TuServ](https://www.tuserv.com/)
+3. [Police ICT](https://www.policedigital.org/)
+4. [Shaping the Future of Connected Policing](https://www.youtube.com/watch?v=24FaeP_Zv_8)
+5. [Enabling Digital Policing: Computacenter and VMWare](https://www.youtube.com/watch?v=wwJyKUv3rcs)
 
 
 
