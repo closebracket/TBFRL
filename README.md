@@ -165,6 +165,8 @@ This is more of a personal list, so if you're a student at Hull, you can check t
 26. [Authentication flows](https://docs.microsoft.com/en-us/azure/active-directory/develop/authentication-flows-app-scenarios)
 27. [Xamarin Sample Todo](https://github.com/xamarin/xamarin-forms-samples/blob/master/Todo/Todo/Views/TodoItemPageCS.cs)
 28. [Xamarin ASync ToDo Example](https://github.com/xamarin/xamarin-forms-samples/blob/master/Todo/Todo/AsyncLazy.cs)
+29. [Xamarin Experimental Flags](https://docs.microsoft.com/en-gb/xamarin/xamarin-forms/internals/experimental-flags)
+30. [Cannot find aapt.exe error](https://docs.microsoft.com/en-us/answers/questions/220826/cannot-find-39aaptexe39-latest-version-of-visual-s.html)
 ## CosmosDB <a name="cosmos">
 1. [Cosmos DB Concepts](https://www.youtube.com/watch?v=XAhYPE-SqRM)
 2. [Cosmos DB with .NET](https://github.com/Azure-Samples/azure-cosmos-db-mongodb-dotnet-getting-started)
@@ -213,7 +215,7 @@ This is more of a personal list, so if you're a student at Hull, you can check t
 14. [Interfacing with a 4x4 Key Matrix](https://www.pantechsolutions.net/blog/how-to-interface-keypad-with-pic16f877a-pic-advanced-development-board/)
 15. [Interfacing with a 4x4 Keymatrix Tutorial](https://tutorial.cytron.io/2012/08/15/project-17-interface-with-4x4-keypad-and-2x16-lcd/)
 16. [Interfacing 4×4 Keypad matrix with 8051 microcontroller](https://technobyte.org/keypad-matrix-8051-interfacing/)
-
+17. [What does 0x0F mean?](https://stackoverflow.com/questions/12989969/what-does-0x0f-mean-and-what-does-this-code-mean)
 
 
 
