@@ -224,5 +224,15 @@ This is more of a personal list, so if you're a student at Hull, you can check t
 4. [Shaping the Future of Connected Policing](https://www.youtube.com/watch?v=24FaeP_Zv_8)
 5. [Enabling Digital Policing: Computacenter and VMWare](https://www.youtube.com/watch?v=wwJyKUv3rcs)
 
-
-
+## Distributed Systems
+1. [SOAP-RPC, SOAP-Faults, and Misunderstandings](https://www.oreilly.com/library/view/java-web-services/0596002696/ch04.html)
+2. [Understanding RPC Vs REST For HTTP APIs](https://www.smashingmagazine.com/2016/09/understanding-rest-and-rpc-for-http-apis/)
+3. [Architectural Styles for APIs: SOAP, REST and RPC](https://medium.com/api-university/architectural-styles-for-apis-soap-rest-and-rpc-9f040aa270fa)
+4. [Simple Object Access Protocol (SOAP)](https://www.w3.org/TR/2000/NOTE-SOAP-20000508/0)
+5. [JSON-RPC Specification](https://www.jsonrpc.org/specification)
+6. [JSON-RPC v Rest for Distributed Applications](https://www.radixdlt.com/post/json-rpc-vs-rest/)
+7. [https://metacpan.org/release/JSON-RPC](https://metacpan.org/release/JSON-RPC)
+8. [gRPC](https://grpc.io/)
+9. [gRPC on Github](https://github.com/grpc/grpc)
+10. [Introduction to gRPC on .NET](https://docs.microsoft.com/en-us/aspnet/core/grpc/?view=aspnetcore-5.0)
+11. [Google: Understanding gRPC OpenAPI and Rest](https://cloud.google.com/blog/products/api-management/understanding-grpc-openapi-and-rest-and-when-to-use-them)
