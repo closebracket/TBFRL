@@ -216,7 +216,9 @@ This is more of a personal list, so if you're a student at Hull, you can check t
 15. [Interfacing with a 4x4 Keymatrix Tutorial](https://tutorial.cytron.io/2012/08/15/project-17-interface-with-4x4-keypad-and-2x16-lcd/)
 16. [Interfacing 4×4 Keypad matrix with 8051 microcontroller](https://technobyte.org/keypad-matrix-8051-interfacing/)
 17. [What does 0x0F mean?](https://stackoverflow.com/questions/12989969/what-does-0x0f-mean-and-what-does-this-code-mean)
-
+18. [Interfacing PIC16F877A with LCD display using CCS PIC C](https://www.youtube.com/watch?v=G0H06xOWVt0)
+19. [PIC development board and more LED examples](https://www.piclearning.net/9/ql200-pic-development-board-led-examples.php)
+20. [Real time clock/calendar with 2 alarms and temperature sensing using PIC16F877A and DS3231](https://ccspicc.blogspot.com/2017/08/real-time-clock-calendar-alarm-temperature-pic16f877a-ds3231.html)
 ## Diss
 1. [North Yorkshire: Microsoft 365 for efficiency & quality of service](https://www.youtube.com/watch?v=0X67Cj2T0ic)
 2. [TuServ](https://www.tuserv.com/)
