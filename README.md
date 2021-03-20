@@ -238,3 +238,7 @@ This is more of a personal list, so if you're a student at Hull, you can check t
 9. [gRPC on Github](https://github.com/grpc/grpc)
 10. [Introduction to gRPC on .NET](https://docs.microsoft.com/en-us/aspnet/core/grpc/?view=aspnetcore-5.0)
 11. [Google: Understanding gRPC OpenAPI and Rest](https://cloud.google.com/blog/products/api-management/understanding-grpc-openapi-and-rest-and-when-to-use-them)
+12. [Messaging Patterns](https://www.enterpriseintegrationpatterns.com/patterns/messaging/toc.html)
+13. [https://www.enterpriseintegrationpatterns.com/](https://www.enterpriseintegrationpatterns.com/)
+14. [Rabbit MQ](https://www.rabbitmq.com/tutorials/tutorial-one-dotnet.html)
+15. [Facade Pattern](https://refactoring.guru/design-patterns/facade)
