@@ -137,7 +137,7 @@ This is more of a personal list, so if you're a student at Hull, you can check t
 5. [The Chartered Institute for IT](https://www.bcs.org/)
 6. [Computer Misuse Act 1990](https://www.legislation.gov.uk/ukpga/1990/18/contents)
 7. [Contract Formation](https://hjsolicitors.co.uk/article/contract-formation-authority/)
-
+8. [ISO 8601](https://kirby.kevinson.org/blog/iso-8601-the-better-date-format/)
 
 ## Xamarin <a name="xamarin"></a>
 1. [Xamarin.Forms Data Binding](https://docs.microsoft.com/en-gb/xamarin/xamarin-forms/app-fundamentals/data-binding/)
@@ -202,6 +202,7 @@ This is more of a personal list, so if you're a student at Hull, you can check t
 15. [Aborting Thread v Cancelling Task](https://www.c-sharpcorner.com/article/aborting-thread-vs-cancelling-task/)
 16. [Breaking the warp barrier for FTLT](https://www.uni-goettingen.de/en/3240.html?id=6192)
 17. [A self-sustainable wearable multi-modular E-textile bioenergy microgrid system](https://www.nature.com/articles/s41467-021-21701-7)
+18. [Lessons from Self-Hosted](https://www.reddit.com/r/selfhosted/comments/lu0t3l/selfhosting_lessons_learned_from_over_the_years/)
 
 ## C / Embedded Systems <a name="embedded">
 1. [Array of Strings in C](https://overiq.com/c-programming-101/array-of-strings-in-c/)
@@ -248,3 +249,5 @@ This is more of a personal list, so if you're a student at Hull, you can check t
 14. [Rabbit MQ](https://www.rabbitmq.com/tutorials/tutorial-one-dotnet.html)
 15. [Facade Pattern](https://refactoring.guru/design-patterns/facade)
 16. [Why is async void bad? r/csharp](https://www.reddit.com/r/csharp/comments/m1xrum/why_is_async_void_bad/)
+17. [Exploring the async/await state machine](https://vkontech.com/exploring-the-async-await-state-machine-synchronization-context/)
+18. 
