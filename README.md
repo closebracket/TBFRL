@@ -40,7 +40,7 @@ This is more of a personal list, so if you're a student at Hull, you can check t
 18. [Harvard CS50x](https://cs50.harvard.edu).
    - 18.1 [Harvard CS50 2018 Lectures Playlist](https://www.youtube.com/playlist?list=PLhQjrBD2T382eX9-tF75Wa4lmlC7sxNDH).  
    - 18.2 [Harvard CS50 for Lawyers Playlist](https://www.youtube.com/playlist?list=PLvD71Eu17WEDRgEDTYH3MfKaG5lySs1dp).
-   - 18.3 ([CS50 Youtube Channel](https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA)).
+   - 18.3 [CS50 Youtube Channel](https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA).
 19. [TryHackMe](https://tryhackme.com/) - is an online platform for learning cyber security, using hands-on exercises and labs!
 20. [Awesome OSINT](https://github.com/jivoi/awesome-osint) - List of OSINT Tools and resources
 21. [NullByte](https://www.youtube.com/channel/UCgTNupxATBfWmfehv21ym-g) (Youtube Channel).
@@ -63,8 +63,8 @@ This is more of a personal list, so if you're a student at Hull, you can check t
 38. [Serialisation](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/serialization/)
 39. [Old Freeside Site](http://www.laidback.org/~andy/freeside/peeps.html) | [And here](http://www.laidback.org/~andy/freeside/ethiks.html)
 40. [Compilation of math functions into Linq.Expression](https://habr.com/en/post/546926/)
-
-
+41. [Generic Delegate Types in C#](https://www.youtube.com/watch?v=E-g8Ivss0Gs)
+42. 
 ## Hull Related <a name="hull"></a>
 1. [For Entrepreneurs Only](https://forentrepreneursonly.co.uk/)
 2. [C4Di](https://www.c4di.co.uk/) (Hull Based)
@@ -127,6 +127,7 @@ This is more of a personal list, so if you're a student at Hull, you can check t
 14. [File Stash](https://www.filestash.app/)
 15. [Platform.uno](https://platform.uno) - Multi platform applications, one code base.
 16. [D Sharp Plus](https://github.com/DSharpPlus/DSharpPlus) - An unofficial .NET wrapper for the Discord API
+17. [Scilla - Info Gathering Tool](https://github.com/edoardottt/scilla)
 
 ## Law and Standards <a name="standards"></a>
 1. [W3](https://www.w3.org/standards/) - Standards for web design and applications, devices, architecture, XML, web services and other technology.
@@ -199,6 +200,8 @@ This is more of a personal list, so if you're a student at Hull, you can check t
 13. [NetworkStream Method Example](https://www.c-sharpcorner.com/article/csharp-streamwriter-example/)
 14. [AZ-900 Resources](https://github.com/MicrosoftLearning/AZ-900T0x-MicrosoftAzureFundamentals)
 15. [Aborting Thread v Cancelling Task](https://www.c-sharpcorner.com/article/aborting-thread-vs-cancelling-task/)
+16. [Breaking the warp barrier for FTLT](https://www.uni-goettingen.de/en/3240.html?id=6192)
+17. [A self-sustainable wearable multi-modular E-textile bioenergy microgrid system](https://www.nature.com/articles/s41467-021-21701-7)
 
 ## C / Embedded Systems <a name="embedded">
 1. [Array of Strings in C](https://overiq.com/c-programming-101/array-of-strings-in-c/)
