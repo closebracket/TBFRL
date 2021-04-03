@@ -62,6 +62,8 @@ This is more of a personal list, so if you're a student at Hull, you can check t
 37. [MIT Press: Reading code != Reading Language](https://news.mit.edu/2020/brain-reading-computer-code-1215)
 38. [Serialisation](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/serialization/)
 39. [Old Freeside Site](http://www.laidback.org/~andy/freeside/peeps.html) | [And here](http://www.laidback.org/~andy/freeside/ethiks.html)
+40. [Compilation of math functions into Linq.Expression](https://habr.com/en/post/546926/)
+
 
 ## Hull Related <a name="hull"></a>
 1. [For Entrepreneurs Only](https://forentrepreneursonly.co.uk/)
@@ -242,3 +244,4 @@ This is more of a personal list, so if you're a student at Hull, you can check t
 13. [https://www.enterpriseintegrationpatterns.com/](https://www.enterpriseintegrationpatterns.com/)
 14. [Rabbit MQ](https://www.rabbitmq.com/tutorials/tutorial-one-dotnet.html)
 15. [Facade Pattern](https://refactoring.guru/design-patterns/facade)
+16. [Why is async void bad? r/csharp](https://www.reddit.com/r/csharp/comments/m1xrum/why_is_async_void_bad/)
