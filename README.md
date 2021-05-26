@@ -231,6 +231,10 @@ This is more of a personal list, so if you're a student at Hull, you can check t
 3. [Police ICT](https://www.policedigital.org/)
 4. [Shaping the Future of Connected Policing](https://www.youtube.com/watch?v=24FaeP_Zv_8)
 5. [Enabling Digital Policing: Computacenter and VMWare](https://www.youtube.com/watch?v=wwJyKUv3rcs)
+6. [Bach CommissionReport:The Right to JusticeDebate on 14 December 2017](https://researchbriefings.files.parliament.uk/documents/LLN-2017-0093/LLN-2017-0093.pdf)
+7. [Labour will restore all legal aid advice](https://labour.org.uk/press/labour-will-restore-legal-aid-advice-richard-burgon/)
+8. [Scope of Family Proceedings Under LASPO](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/948249/Scope_of_Family_Proceedings_Under_LASPO__January_2021_.pdf)
+9. [Government still playing ‘catch up’ on civil legal aid reform, say MPs](https://www.lawgazette.co.uk/law/government-still-playing-catch-up-on-laspo/5046526.article)
 
 ## Distributed Systems
 1. [SOAP-RPC, SOAP-Faults, and Misunderstandings](https://www.oreilly.com/library/view/java-web-services/0596002696/ch04.html)
