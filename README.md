@@ -255,4 +255,3 @@ This is more of a personal list, so if you're a student at Hull, you can check t
 15. [Facade Pattern](https://refactoring.guru/design-patterns/facade)
 16. [Why is async void bad? r/csharp](https://www.reddit.com/r/csharp/comments/m1xrum/why_is_async_void_bad/)
 17. [Exploring the async/await state machine](https://vkontech.com/exploring-the-async-await-state-machine-synchronization-context/)
-18. 
