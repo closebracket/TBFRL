@@ -235,6 +235,7 @@ This is more of a personal list, so if you're a student at Hull, you can check t
 7. [Labour will restore all legal aid advice](https://labour.org.uk/press/labour-will-restore-legal-aid-advice-richard-burgon/)
 8. [Scope of Family Proceedings Under LASPO](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/948249/Scope_of_Family_Proceedings_Under_LASPO__January_2021_.pdf)
 9. [Government still playing ‘catch up’ on civil legal aid reform, say MPs](https://www.lawgazette.co.uk/law/government-still-playing-catch-up-on-laspo/5046526.article)
+10. [Taking Responsibility? Legal Aid Reform and Litigants in Person in England - Liz Trinder](https://core.ac.uk/download/pdf/43094546.pdf)
 
 ## Distributed Systems
 1. [SOAP-RPC, SOAP-Faults, and Misunderstandings](https://www.oreilly.com/library/view/java-web-services/0596002696/ch04.html)
