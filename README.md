@@ -87,7 +87,7 @@ This is more of a personal list, so if you're a student at Hull, you can check t
 12. [York & Yorkshire Local Enterprise Partnership Linkedin Group](https://www.linkedin.com/groups/4217871/)
 13. [Andrew Hancock talks with friends Randy Redberg and Thomas Bernal at Experts Exchange about Career Growth and VMware](https://www.experts-exchange.com/podcasts/5/Career-Growth-and-VMware.html)
 14. [Andrew Hancock talks with friends Randy Redberg and Thomas Bernal at Experts Exchange about being an IT Author and British Beekeeper](https://www.experts-exchange.com/podcasts/241/EP-19-Buzz-Words-IT-Author-and-Beekeeper-Andrew-Hancock.html)
-
+15. [FW Capital](https://fwcapital.co.uk/) - [NPIF invests more than £237m across the North as it celebrates fourth year ](https://fwcapital.co.uk/news-and-events/npif-invests-more-ps237m-across-north-it-celebrates-fourth-year)
 ## Services <a name="services"></a>
 1. [Migadu.com](https://migadu.com) - Unlimited cheap email for lots of domains.
 2. [Github Pages](https://pages.github.com/)
@@ -109,7 +109,7 @@ This is more of a personal list, so if you're a student at Hull, you can check t
 18. [E Foundation](https://e.foundation)
 19. [Github Automation](https://docs.github.com/en/github/managing-your-work-on-github/about-automation-for-project-boards)
 20. [Free small matrix server](https://matrix.org/docs/guides/free-small-matrix-server)
-
+21. [VS Colors](https://www.vscolors.com)
 ## Software <a name="software"></a>
 1. [Atom Editor](https://atom.io/) 
 2. [Jetbrains Editors](https://www.jetbrains.com/).
@@ -128,6 +128,7 @@ This is more of a personal list, so if you're a student at Hull, you can check t
 15. [Platform.uno](https://platform.uno) - Multi platform applications, one code base.
 16. [D Sharp Plus](https://github.com/DSharpPlus/DSharpPlus) - An unofficial .NET wrapper for the Discord API
 17. [Scilla - Info Gathering Tool](https://github.com/edoardottt/scilla)
+18. [NSSM](https://nssm.cc/commands)
 
 ## Law and Standards <a name="standards"></a>
 1. [W3](https://www.w3.org/standards/) - Standards for web design and applications, devices, architecture, XML, web services and other technology.
@@ -181,28 +182,9 @@ This is more of a personal list, so if you're a student at Hull, you can check t
 8. [What is CosmosDB?](https://www.youtube.com/watch?v=utdxvAhIlcY).
 9. [Azure Cosmos DB Docs](https://docs.microsoft.com/en-us/azure/cosmos-db/)
 10. [Database Approaches](https://db.grussell.org/section002.html)
+11. [MongoDb](https://www.mongodb.com/)
 ## Data <a name="data">
 1. [Family Court Statistics Jan - March 2018](https://www.gov.uk/government/statistics/family-court-statistics-quarterly-january-to-march-2018)
-
-## Articles & Misc <a name="articles">
-1. [Europe Wonders if it can rely on U.S Again](https://www.nytimes.com/2020/10/22/world/europe/europe-biden-trump-diplomacy.html?utm_source=pocket-newtab-global-en-GB)
-2. [Reverse Bullingdon Club](https://www.theguardian.com/education/2021/mar/06/bullingdon-in-reverse-working-class-student-93-club-taking-on-elitism#Echobox=1615033084?utm_source=pocket-newtab-global-en-GB)
-3. [Mailoji](https://tinyprojects.dev/projects/mailoji)
-4. [What3Words Api](https://developer.what3words.com)
-5. [VMWare Tanzu](https://tanzu.vmware.com)
-6. [MSPs Back Criminalising hate speech at dinner table](https://heraldscotland.com/news/19077579.msps-back-criminalising-hate-speech-dinner-table/)
-7. [Comparison of Linux v Windows usage for websites](https://w3techs.com/technologies/comparison/os-linux,os-windows)
-8. [Telegram Terminal Client](https://github.com/vtr0n/TelegramTUI)
-9. [Short Squeeze](https://shortsqueeze.com)
-10. [FIDO2: WebAuthn & CTAP](https://fidoalliance.org/fido2/)
-11. [RestAPI](https://restfulapi.net/)
-12. [NetworkStream.Write](https://docs.microsoft.com/en-us/dotnet/api/system.net.sockets.networkstream.write?view=net-5.0#System_Net_Sockets_NetworkStream_Write_System_Byte___System_Int32_System_Int32_)
-13. [NetworkStream Method Example](https://www.c-sharpcorner.com/article/csharp-streamwriter-example/)
-14. [AZ-900 Resources](https://github.com/MicrosoftLearning/AZ-900T0x-MicrosoftAzureFundamentals)
-15. [Aborting Thread v Cancelling Task](https://www.c-sharpcorner.com/article/aborting-thread-vs-cancelling-task/)
-16. [Breaking the warp barrier for FTLT](https://www.uni-goettingen.de/en/3240.html?id=6192)
-17. [A self-sustainable wearable multi-modular E-textile bioenergy microgrid system](https://www.nature.com/articles/s41467-021-21701-7)
-18. [Lessons from Self-Hosted](https://www.reddit.com/r/selfhosted/comments/lu0t3l/selfhosting_lessons_learned_from_over_the_years/)
 
 ## C / Embedded Systems <a name="embedded">
 1. [Array of Strings in C](https://overiq.com/c-programming-101/array-of-strings-in-c/)
@@ -236,6 +218,13 @@ This is more of a personal list, so if you're a student at Hull, you can check t
 8. [Scope of Family Proceedings Under LASPO](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/948249/Scope_of_Family_Proceedings_Under_LASPO__January_2021_.pdf)
 9. [Government still playing ‘catch up’ on civil legal aid reform, say MPs](https://www.lawgazette.co.uk/law/government-still-playing-catch-up-on-laspo/5046526.article)
 10. [Taking Responsibility? Legal Aid Reform and Litigants in Person in England - Liz Trinder](https://core.ac.uk/download/pdf/43094546.pdf)
+11. [Raft Consensus Algorithm](https://raft.github.io/)
+12. [Hull Data Observatory](https://data.hull.gov.uk/)
+13. [Mums Net Discussion](https://www.mumsnet.com/Talk/womens_rights/4226990-This-feels-really-unsettling)
+14. [Northamptonshire mum jailed for killing baby son left alone in bath](https://www.bbc.co.uk/news/uk-england-northamptonshire-56860846)
+15. [Baby drowned in hot tub while mother was working from home, inquest hears](https://www.telegraph.co.uk/news/2020/12/01/baby-drowned-hot-tub-mother-working-home-inquest-hears/)
+
+
 
 ## Distributed Systems
 1. [SOAP-RPC, SOAP-Faults, and Misunderstandings](https://www.oreilly.com/library/view/java-web-services/0596002696/ch04.html)
@@ -255,3 +244,41 @@ This is more of a personal list, so if you're a student at Hull, you can check t
 15. [Facade Pattern](https://refactoring.guru/design-patterns/facade)
 16. [Why is async void bad? r/csharp](https://www.reddit.com/r/csharp/comments/m1xrum/why_is_async_void_bad/)
 17. [Exploring the async/await state machine](https://vkontech.com/exploring-the-async-await-state-machine-synchronization-context/)
+18. [CRUD v REST](https://nordicapis.com/crud-vs-rest-whats-the-difference/)
+
+## Tech Articles/Docs <a name="articles">
+1. [Europe Wonders if it can rely on U.S Again](https://www.nytimes.com/2020/10/22/world/europe/europe-biden-trump-diplomacy.html?utm_source=pocket-newtab-global-en-GB)
+2. [Reverse Bullingdon Club](https://www.theguardian.com/education/2021/mar/06/bullingdon-in-reverse-working-class-student-93-club-taking-on-elitism#Echobox=1615033084?utm_source=pocket-newtab-global-en-GB)
+3. [Mailoji](https://tinyprojects.dev/projects/mailoji)
+4. [What3Words Api](https://developer.what3words.com)
+5. [VMWare Tanzu](https://tanzu.vmware.com)
+6. [MSPs Back Criminalising hate speech at dinner table](https://heraldscotland.com/news/19077579.msps-back-criminalising-hate-speech-dinner-table/)
+7. [Comparison of Linux v Windows usage for websites](https://w3techs.com/technologies/comparison/os-linux,os-windows)
+8. [Telegram Terminal Client](https://github.com/vtr0n/TelegramTUI)
+9. [Short Squeeze](https://shortsqueeze.com)
+10. [FIDO2: WebAuthn & CTAP](https://fidoalliance.org/fido2/)
+11. [RestAPI](https://restfulapi.net/)
+12. [NetworkStream.Write](https://docs.microsoft.com/en-us/dotnet/api/system.net.sockets.networkstream.write?view=net-5.0#System_Net_Sockets_NetworkStream_Write_System_Byte___System_Int32_System_Int32_)
+13. [NetworkStream Method Example](https://www.c-sharpcorner.com/article/csharp-streamwriter-example/)
+14. [AZ-900 Resources](https://github.com/MicrosoftLearning/AZ-900T0x-MicrosoftAzureFundamentals)
+15. [Aborting Thread v Cancelling Task](https://www.c-sharpcorner.com/article/aborting-thread-vs-cancelling-task/)
+16. [Breaking the warp barrier for FTLT](https://www.uni-goettingen.de/en/3240.html?id=6192)
+17. [A self-sustainable wearable multi-modular E-textile bioenergy microgrid system](https://www.nature.com/articles/s41467-021-21701-7)
+18. [Lessons from Self-Hosted](https://www.reddit.com/r/selfhosted/comments/lu0t3l/selfhosting_lessons_learned_from_over_the_years/)
+19. [Researchers from the FireEye’s Mandiant team have breached the network of a North American utility and turn off one of its smart meters.](https://securityaffairs.co/wordpress/117001/ics-scada/ot-network-hack-smart-meters.html?utm_source=dlvr.it&utm_medium=linkedin&utm_campaign=ot-network-hack-smart-meters)
+20. [Discord walked away from Microsoft talks, may pursue an IPO](https://techcrunch.com/2021/04/20/discord-ipo-microsoft-deal/)
+21. [A Facebook vulnerability can allow hackers to scrape users' email addresses](https://www.neowin.net/news/a-facebook-vulnerability-can-allow-hackers-to-scrape-users-email-addresses/)
+22. [UK may force Facebook services to allow backdoor police access(https://www.theguardian.com/technology/2021/apr/01/uk-may-force-facebook-services-to-allow-backdoor-police-access)
+23. [Researchers Uncover Stealthy Linux Malware That Went Undetected for 3 Years](https://thehackernews.com/2021/04/researchers-uncover-stealthy-linux.html?m=1)
+24. [DigitalOcean data breach exposes customer billing information](https://www.bleepingcomputer.com/news/security/digitalocean-data-breach-exposes-customer-billing-information/)
+25. [You're (probably still) using HttpClient wrong and it is destabilizing your software](https://josef.codes/you-are-probably-still-using-httpclient-wrong-and-it-is-destabilizing-your-software/)
+26. [Avoid these mistakes as a junior developer](https://www.yusufcodes.com/avoid-these-mistakes-as-a-junior-developer)
+## Press/Articles (Non Tech)
+1. [It’s elitist to mark down bad spelling, universities insist](https://www.thetimes.co.uk/article/its-elitist-to-mark-down-bad-spelling-universities-insist-bmw5j2jlf)
+2. [York council leader survives vote of no confidence – thanks to support of the Greens](https://yorkmix.com/york-council-leader-survives-vote-of-no-confidence-thanks-to-support-of-the-greens/)
+3. [Stonewall tries to ban word 'mother'](https://www.dailymail.co.uk/news/article-9651333/Stonewall-tells-employers-not-use-mother-say-parent-given-birth-instead.html)
+4. [University of Hull Students Awarded Scholarships by Compass Hospitality](https://www.hull.ac.uk/work-with-us/more/media-centre/news/2021/university-of-hull-students-awarded-scholarships-by-global-travel-company)
+## Notable Legal Cases
+1. [R v R [1991]](https://www.bailii.org/uk/cases/UKHL/1991/12.html)
+2. [R v Tara Major [2010]](https://www.bailii.org/ew/cases/EWCA/Crim/2010/3016.html)
+3. [Harry Miller v The College Of Policing & Humberside Police](https://www.judiciary.uk/wp-content/uploads/2020/02/miller-v-college-of-police-judgment.pdf)
