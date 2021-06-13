@@ -268,7 +268,7 @@ This is more of a personal list, so if you're a student at Hull, you can check t
 19. [Researchers from the FireEye’s Mandiant team have breached the network of a North American utility and turn off one of its smart meters.](https://securityaffairs.co/wordpress/117001/ics-scada/ot-network-hack-smart-meters.html?utm_source=dlvr.it&utm_medium=linkedin&utm_campaign=ot-network-hack-smart-meters)
 20. [Discord walked away from Microsoft talks, may pursue an IPO](https://techcrunch.com/2021/04/20/discord-ipo-microsoft-deal/)
 21. [A Facebook vulnerability can allow hackers to scrape users' email addresses](https://www.neowin.net/news/a-facebook-vulnerability-can-allow-hackers-to-scrape-users-email-addresses/)
-22. [UK may force Facebook services to allow backdoor police access(https://www.theguardian.com/technology/2021/apr/01/uk-may-force-facebook-services-to-allow-backdoor-police-access)
+22. [UK may force Facebook services to allow backdoor police access](https://www.theguardian.com/technology/2021/apr/01/uk-may-force-facebook-services-to-allow-backdoor-police-access)
 23. [Researchers Uncover Stealthy Linux Malware That Went Undetected for 3 Years](https://thehackernews.com/2021/04/researchers-uncover-stealthy-linux.html?m=1)
 24. [DigitalOcean data breach exposes customer billing information](https://www.bleepingcomputer.com/news/security/digitalocean-data-breach-exposes-customer-billing-information/)
 25. [You're (probably still) using HttpClient wrong and it is destabilizing your software](https://josef.codes/you-are-probably-still-using-httpclient-wrong-and-it-is-destabilizing-your-software/)
