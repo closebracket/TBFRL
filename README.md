@@ -110,6 +110,7 @@ This is more of a personal list, so if you're a student at Hull, you can check t
 19. [Github Automation](https://docs.github.com/en/github/managing-your-work-on-github/about-automation-for-project-boards)
 20. [Free small matrix server](https://matrix.org/docs/guides/free-small-matrix-server)
 21. [VS Colors](https://www.vscolors.com)
+22. [Everything AWS](https://app.polymersearch.com/discover/aws) - Search 6k Github Repositories
 ## Software <a name="software"></a>
 1. [Atom Editor](https://atom.io/) 
 2. [Jetbrains Editors](https://www.jetbrains.com/).
@@ -171,6 +172,20 @@ This is more of a personal list, so if you're a student at Hull, you can check t
 28. [Xamarin ASync ToDo Example](https://github.com/xamarin/xamarin-forms-samples/blob/master/Todo/Todo/AsyncLazy.cs)
 29. [Xamarin Experimental Flags](https://docs.microsoft.com/en-gb/xamarin/xamarin-forms/internals/experimental-flags)
 30. [Cannot find aapt.exe error](https://docs.microsoft.com/en-us/answers/questions/220826/cannot-find-39aaptexe39-latest-version-of-visual-s.html)
+
+## Blazor
+1. [Creating a Blazor PWA](https://toddlittlejohn.com/2019/06/30/creating-a-blazor-pwa/)
+2. [Creating a Progressive WEb App with Blazor Web Assembly](https://visualstudiomagazine.com/articles/2020/08/03/blazor-pwa.aspx)
+3. [Blazor GeoLocation](https://github.com/AspNetMonsters/Blazor.Geolocation)
+4. [Fetching User Ip + Location in Blazor](https://www.learmoreseekmore.com/2020/12/users-ip-geolocation-blazorwebasm.html)
+5. [User GeoLocation in Blazor](https://darnton.co.nz/2020/11/29/geolocation-in-blazor/)
+6. [.NET live - Building Reactive UIs in Blazor](https://www.youtube.com/watch?v=EUOimtP78jQ)
+7. [Rest API Tutorial in .NET 5](https://www.youtube.com/watch?v=ZXdFisA_hOY)
+8. [Commands, Queries and Clean Architecture](https://www.youtube.com/watch?v=IRvDGPbxdTs)
+9. [Blazor - Next Generation UI with .NET 6](https://www.youtube.com/watch?v=1qOXCpCwmJ4)
+10. [Blazor Server Side](https://www.youtube.com/watch?v=8DNgdphLvag)
+11. [Blazor for Beginners - Getting Started With Blazor](https://codewithmukesh.com/blog/getting-started-with-blazor/)
+12. [Blazor Project Structure](https://medium.com/informatics/blazor-project-structure-e91a7c48ce1b)
 ## CosmosDB <a name="cosmos">
 1. [Cosmos DB Concepts](https://www.youtube.com/watch?v=XAhYPE-SqRM)
 2. [Cosmos DB with .NET](https://github.com/Azure-Samples/azure-cosmos-db-mongodb-dotnet-getting-started)
@@ -183,8 +198,15 @@ This is more of a personal list, so if you're a student at Hull, you can check t
 9. [Azure Cosmos DB Docs](https://docs.microsoft.com/en-us/azure/cosmos-db/)
 10. [Database Approaches](https://db.grussell.org/section002.html)
 11. [MongoDb](https://www.mongodb.com/)
+12. [6 Rules of Thumb for MongoDb Schema Design Pt 1](https://www.mongodb.com/blog/post/6-rules-of-thumb-for-mongodb-schema-design-part-1)
+13. [6 Rules of Thumb for MongoDb Schema Design Pt 2](https://www.mongodb.com/blog/post/6-rules-of-thumb-for-mongodb-schema-design-part-2)
+14. [Measuring accuracy of latitude and longitude?](https://gis.stackexchange.com/questions/8650/measuring-accuracy-of-latitude-and-longitude)
+15. [SQL Join queries Cosmos](https://docs.microsoft.com/en-us/azure/cosmos-db/sql-query-join)
+16. [Partitioning in Azure Cosmos DB](https://www.youtube.com/watch?v=zY09mdcIz0E)
 ## Data <a name="data">
 1. [Family Court Statistics Jan - March 2018](https://www.gov.uk/government/statistics/family-court-statistics-quarterly-january-to-march-2018)
+2. [Families and Households ion the UK: 2018](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/families/bulletins/familiesandhouseholds/2018)
+
 
 ## C / Embedded Systems <a name="embedded">
 1. [Array of Strings in C](https://overiq.com/c-programming-101/array-of-strings-in-c/)
@@ -223,9 +245,20 @@ This is more of a personal list, so if you're a student at Hull, you can check t
 13. [Mums Net Discussion](https://www.mumsnet.com/Talk/womens_rights/4226990-This-feels-really-unsettling)
 14. [Northamptonshire mum jailed for killing baby son left alone in bath](https://www.bbc.co.uk/news/uk-england-northamptonshire-56860846)
 15. [Baby drowned in hot tub while mother was working from home, inquest hears](https://www.telegraph.co.uk/news/2020/12/01/baby-drowned-hot-tub-mother-working-home-inquest-hears/)
-
-
-
+16. [Without Legal Aid, the rule of law collapses](https://thesecretbarrister.com/2018/12/28/without-legal-aid-the-rule-of-law-collapses/) & [Guardian Article](https://www.theguardian.com/law/2018/dec/27/secret-barrister-legal-aid-the-rule-law-cuts)
+17. [Guardian Legal Aid Feed](https://www.theguardian.com/law/legal-aid)
+18. ['I couldn't fight to get my children back': the impact of legal aid cuts](https://www.theguardian.com/law/2018/dec/27/i-couldnt-fight-to-get-my-children-back-the-impact-of-legal-aid-cuts)
+19. [The Law Society: LASPO 4 Years on: Review](https://www.lawsociety.org.uk/en/topics/research/laspo-4-years-on)
+20. [Nurture App](https://nurtureapp.co.uk/)
+21. [Advice Services Alliance - LASPO - what you need to know](https://asauk.org.uk/wp-content/uploads/2013/08/LASPO-What-you-need_to-know.pdf)
+22.[Legal Aid, Sentencing and Punishment of Offenders Act 2012: Post-Legislative Memorandum](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/655971/LASPO-Act-2012-post-legislative-memorandum.pdf)
+23.[LASPO Update: Ping Pong, Round 1 and the Transport Committee Response](https://www.lyonsdavidson.co.uk/laspo-update-ping-pong-round-1-transport-committee-response/)
+24. [LASPO Background Information(https://www.justice.gov.uk/legislation/bills-and-acts/acts/legal-aid-and-sentencing-act/laspo-background-information)
+25. [LASPO Lords Committee Stage Amendments 2011](https://www.justice.gov.uk/downloads/legislation/bills-acts/legal-aid-sentencing/laspo-rehab-of-offenders-act-ia.pdf)
+26. [Basic Biology - Fungi](https://basicbiology.net/micro/microorganisms/fungi)
+27. [Underground Fungi Economy](https://www.youtube.com/watch?v=WWD_1Nq6iwQ)
+28. [Mycorrhizal fungi control phosphorus value in trade symbiosis with host roots when exposed to abrupt ‘crashes’ and ‘booms’ of resource availability](https://tobykiers.com/wp-content/uploads/2020/12/VantPadje_NewPhytol_2020.pdf) + [More from Researchers](https://tobykiers.com/publication/)
+29. [Hidden Partners: Mycorrhizal Fungi and Plants NYBG Herbarium Intern Matthew Pace](https://sciweb.nybg.org/science2/hcol/mycorrhizae.asp.html)
 ## Distributed Systems
 1. [SOAP-RPC, SOAP-Faults, and Misunderstandings](https://www.oreilly.com/library/view/java-web-services/0596002696/ch04.html)
 2. [Understanding RPC Vs REST For HTTP APIs](https://www.smashingmagazine.com/2016/09/understanding-rest-and-rpc-for-http-apis/)
@@ -245,6 +278,10 @@ This is more of a personal list, so if you're a student at Hull, you can check t
 16. [Why is async void bad? r/csharp](https://www.reddit.com/r/csharp/comments/m1xrum/why_is_async_void_bad/)
 17. [Exploring the async/await state machine](https://vkontech.com/exploring-the-async-await-state-machine-synchronization-context/)
 18. [CRUD v REST](https://nordicapis.com/crud-vs-rest-whats-the-difference/)
+19. [Clean Architecture with ASP.NET Core with Steve 'Ardalis' Smith](https://www.youtube.com/watch?v=joNTQy-KXiU)
+20. [Azure Functions code generation for Open API Specs](https://github.com/Azure/autorest.azure-functions)
+21. [Azure API Design Ebook by Microsoft](https://azure.microsoft.com/mediahandler/files/resourcefiles/api-design/Azure_API-Design_Guide_eBook.pdf)
+22. [Serverless APIs with Azure Functions and API Management](https://www.youtube.com/watch?v=6Z5qK9NTA3k&list=WL&index=7)
 
 ## Tech Articles/Docs <a name="articles">
 1. [Europe Wonders if it can rely on U.S Again](https://www.nytimes.com/2020/10/22/world/europe/europe-biden-trump-diplomacy.html?utm_source=pocket-newtab-global-en-GB)
@@ -273,6 +310,7 @@ This is more of a personal list, so if you're a student at Hull, you can check t
 24. [DigitalOcean data breach exposes customer billing information](https://www.bleepingcomputer.com/news/security/digitalocean-data-breach-exposes-customer-billing-information/)
 25. [You're (probably still) using HttpClient wrong and it is destabilizing your software](https://josef.codes/you-are-probably-still-using-httpclient-wrong-and-it-is-destabilizing-your-software/)
 26. [Avoid these mistakes as a junior developer](https://www.yusufcodes.com/avoid-these-mistakes-as-a-junior-developer)
+27. [Raid Overview](https://www.prepressure.com/library/technology/raid)
 ## Press/Articles (Non Tech)
 1. [It’s elitist to mark down bad spelling, universities insist](https://www.thetimes.co.uk/article/its-elitist-to-mark-down-bad-spelling-universities-insist-bmw5j2jlf)
 2. [York council leader survives vote of no confidence – thanks to support of the Greens](https://yorkmix.com/york-council-leader-survives-vote-of-no-confidence-thanks-to-support-of-the-greens/)
